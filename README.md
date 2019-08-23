@@ -6,7 +6,7 @@
 ## Descripción
 
 
-La Escuela de JavaScript es el Programa de educación _Blended education_ de Paltzi. 
+La Escuela de JavaScript es el Programa de educación _Blended education_ de Platzi. 
 
 
 Durante las sesiones de trabajo presencial tendremos: 
@@ -31,6 +31,7 @@ Este repositorio tiene el objetivo de centralizar el planteamiento de los difere
 
 Los estudiantes tendrán acceso al repositorio y en cada sesión deberán acceder al planteamiento del reto y resolverlo durante la sesión presencial. 
 
+El documento con la descripción de cada reto será habilitado la mañana misma de  la sesión. 
 
 ### Proyectos: 
 
@@ -41,7 +42,7 @@ En el apartado de Wiki de este repositorio se encuentran los requerimientos y re
 ## Documentación de las sesiones 
 
 
-En este repositorio se encuentra un archivo llamado: Documentación de las sesiones, en el que el equipo de profesores y tutores debe registrar semana a semana un resumen de la sesión que cubra: Resumen general de la sesión, objetivos alcanzados por los estudiantes, preguntas y respuestas clave durante la sesión. 
+En este repositorio se encuentra una carpeta llamada  Documentación y dentro se encuentran 12 archivos con el nombre de las sesiones, en el que el equipo de profesores y tutores debe registrar semana a semana un resumen de la sesión que cubra: Resumen general de la sesión, objetivos alcanzados por los estudiantes, preguntas y respuestas clave durante la sesión. 
 
 
 Este documento servirá de apoyo para los profesores y tutores que estarán a cargo de la siguiente sesión, es importante mantenerlo actualizado al final de cada sesión. 
